@@ -8,5 +8,5 @@ module.exports = {
 
   // Path to script, which will be executed after init
   postInitScript: "./script.js",
-  titlePlaceholder: "@mindinventory React Native Boilerplate",
+  titlePlaceholder: "React Native Boilerplate",
 }
